@@ -1,6 +1,6 @@
 # 🌐 Interpretability on legal domain
 
-## Created by
+## About
 **Authors:** Olga Alcantara-Francia, Miguel Nuñez del Prado and Hugo Alatrists-Salas <br />
 **Contact Details:** hugo.alatrista_salas@devinci.fr <br />
 **Maintenance:** Hugo Alatrists-Salas <br />
