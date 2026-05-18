@@ -1,9 +1,9 @@
 # 🌐 Interpretability on legal domain
 
 ## Created by
-**Author:** Hugo Alatrists-Salas <br />
+**Authors:** Olga Alcantara-Francia, Miguel Nuñez del Prado and Hugo Alatrists-Salas <br />
 **Contact Details:** hugo.alatrista_salas@devinci.fr <br />
-**Co-authors:** Olga Alcantara-Francia/Miguel Nuñez del Prado <br />
+**Maintenance:** Hugo Alatrists-Salas <br />
 **Institution:** De Vinci Research Center
 <br />
 
