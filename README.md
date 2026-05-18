@@ -15,7 +15,7 @@ Link to pur paper: [https://link.springer.com/article/10.1007/s12652-022-03808-x
 
 If you use this code or find it helpful in your research, please cite
 
-APA format:
+APA and Bibtex format:
 > Alcántara Francia, O. A., Nunez-del-Prado, M., & Alatrista-Salas, H. (2024). Exploring the interpretability of legal terms in tasks of classification of final decisions in administrative procedures. Quality & Quantity, 58(5), 4833-4857.
 Bibtex:
 ```
