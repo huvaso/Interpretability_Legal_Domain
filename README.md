@@ -13,8 +13,9 @@ This code implements a 5-step methodology for analysing legal documents from the
 
 Link to pur paper: [https://link.springer.com/article/10.1007/s12652-022-03808-x](https://link.springer.com/article/10.1007/s11135-024-01882-1)
 
-Please, cite us using the following text (APA format).
+If you use this code or find it helpful in your research, please cite
 
+APA format:
 > Alcántara Francia, O. A., Nunez-del-Prado, M., & Alatrista-Salas, H. (2024). Exploring the interpretability of legal terms in tasks of classification of final decisions in administrative procedures. Quality & Quantity, 58(5), 4833-4857.
 Bibtex:
 ```
