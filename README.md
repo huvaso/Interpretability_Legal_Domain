@@ -3,7 +3,7 @@
 ## Created by
 **Author:** Hugo Alatrists-Salas <br />
 **Contact Details:** hugo.alatrista_salas@devinci.fr <br />
-**Collaborators:** Olga Alcantara-Francia/Miguel Nuñez del Prado <br />
+**Co-authors:** Olga Alcantara-Francia/Miguel Nuñez del Prado <br />
 **Contact Details:** hugo.alatrista_salas@devinci.fr <br />
 **Institution:** De Vinci Research Center
 <br />
