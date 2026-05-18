@@ -29,9 +29,3 @@ Bibtex:
   publisher={Springer}
 }
 ```
-
-4. Perform data division in train and validation dataset:
-
-```python
-# for this example have proportion 90 (train) /10 (validate)
-train, validate = pdt.split_train_validation(df_patterns_weight, 0.9)
